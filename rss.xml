@@ -4,7 +4,7 @@
         <description><![CDATA[iPhoneArt]]></description>
         <link>https://thegrid.ai/iphoneart/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 09:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 13:46:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iphoneart/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The last drink]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/iphoneart/first-post/index.html</link>
             <guid isPermaLink="false">c95aeb86-f980-4a32-9ad3-aaf90701c7fa</guid>
             <pubDate>Thu, 07 Jan 2016 09:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The world needs heroes]]></title>
+            <description><![CDATA[<article><h1>The world needs heroes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dca1ca7a5c5c0fd546544be6b93a09fdbe69ec90.jpg"></article>]]></description>
+            <link>https://thegrid.ai/iphoneart/the-world-needs-heroes/index.html</link>
+            <guid isPermaLink="false">55a2b969-5ae9-4ef6-9b78-9ea75bf00b1f</guid>
+            <pubDate>Thu, 07 Jan 2016 13:46:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
