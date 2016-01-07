@@ -1,7 +1,7 @@
 name: iPhoneArt
 favicon: null
 layout_spectrum: 0.5853454368188977
-typography_spectrum: 0.057758231181651354
+typography_spectrum: 0.23838
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#a15a2c'
+    - '#2f2b2a'
+    - '#712d16'
+    - '#d0944e'
+    - '#ead6a3'
   brandStrength: 0.5115020456723869
   lightness: 0.4704713311512023
   saturation: 0.8396335495635867
